@@ -1,8 +1,8 @@
 ---
 layout: case-study
-title: "Basics"
+title: "Basic Syntax in TypeScript"
 order: 1
-summary: "non"
+summary: "Basic Syntax is explained with a motivational case study."
 tags: [typescript]
 ---
 
